@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="820" viewBox="0 0 320 360" role="img" aria-label="Paris Saint-Germain Third jersey illustration">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10182a"/><stop offset="1" stop-color="#060a12"/></linearGradient><linearGradient id="shirt" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d7a9c8"/><stop offset="1" stop-color="#2b1a3d"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="9" stdDeviation="8" flood-opacity=".45"/></filter></defs>
+<rect width="320" height="360" rx="24" fill="url(#bg)"/><circle cx="265" cy="70" r="85" fill="#2b1a3d" opacity=".12"/><circle cx="45" cy="290" r="105" fill="#d7a9c8" opacity=".12"/>
+<text x="24" y="32" fill="#ffd21f" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2">GT-SPORT</text>
+<g filter="url(#s)"><path d="M108 76 L137 62 Q160 75 183 62 L212 76 L270 116 L244 160 L215 141 L215 295 Q160 316 105 295 L105 141 L76 160 L50 116 Z" fill="url(#shirt)" stroke="#ffffff" stroke-opacity=".18" stroke-width="2"/>
+<path d="M139 82 L160 105 L181 82" fill="none" stroke="#2b1a3d" stroke-width="8" stroke-linecap="round"/>
+<path d="M106 143 L214 143" stroke="#2b1a3d" stroke-opacity=".6" stroke-width="5"/>
+<path d="M159 105 L159 290" stroke="#2b1a3d" stroke-opacity=".22" stroke-width="4"/>
+<circle cx="132" cy="120" r="15" fill="#0b1020" stroke="#ffd21f" stroke-width="2"/><text x="132" y="124" text-anchor="middle" fill="#ffd21f" font-family="Arial" font-size="9" font-weight="700">GT</text>
+<rect x="127" y="168" width="66" height="34" rx="6" fill="#ffffff" opacity=".92"/><text x="160" y="190" text-anchor="middle" fill="#111827" font-family="Arial" font-size="12" font-weight="800">SPORT</text></g>
+<text x="160" y="330" text-anchor="middle" fill="#ffffff" font-family="Arial,sans-serif" font-size="16" font-weight="800">Paris Saint-Germain</text><text x="160" y="349" text-anchor="middle" fill="#b6c0d6" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2">THIRD KIT</text>
+</svg>
